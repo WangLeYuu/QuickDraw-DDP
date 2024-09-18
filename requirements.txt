@@ -1,0 +1,13 @@
+matplotlib==3.9.2
+numpy==2.1.1
+onnx==1.16.1
+onnx_simplifier==0.4.36
+onnxruntime==1.18.1
+onnxsim==0.4.36
+Pillow==10.4.0
+scikit_learn==1.5.2
+seaborn==0.13.2
+torch==2.3.0
+torchsummary==1.5.1
+torchvision==0.18.0
+tqdm==4.66.4
